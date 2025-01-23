@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LegendaryJoseph
-- 👀 I’m interested in DevOps and Cybersecurity
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on DevOps projects. 
+- 👋 Hi, I’m Joseph Irungu Gitonga
+- 👀 I’m interested in Cloud, DevOps, Cybersecurity, and AI
+- 🌱 I’m currently learning AI and mastering key DevOps Tools
+- 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me: @LegendaryJoseph
 
 <!---
